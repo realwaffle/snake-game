@@ -14,9 +14,8 @@ The objective of the game is to try and get a high score by eating as many delic
 **********************************************************************************************
 **********************************************************************************************
 
-<p>Game Screenshots:</p>
+<p align="center" ><b>Game Screenshots:</b></p>
 
-<img width="405" alt="screen shot 2017-10-23 at 10 09 47 pm" src="https://user-images.githubusercontent.com/5751399/32029935-93bef70c-b9c5-11e7-9851-6b965d7a6a5a.png">  <img width="407" alt="screen shot 2017-10-23 at 10 10 33 pm" src="https://user-images.githubusercontent.com/5751399/32029933-90e93bf0-b9c5-11e7-91e4-68644390765f.png">
-
-<img width="408" alt="screen shot 2017-10-23 at 10 09 58 pm" padding-left="400" src="https://user-images.githubusercontent.com/5751399/32029941-9a09a558-b9c5-11e7-9557-81ac88e8cea4.png">
+<img width="407" alt="screen shot 2017-10-23 at 10 10 33 pm" src="https://user-images.githubusercontent.com/5751399/32029933-90e93bf0-b9c5-11e7-91e4-68644390765f.png">     <img width="405" alt="screen shot 2017-10-23 at 10 09 47 pm" src="https://user-images.githubusercontent.com/5751399/32029935-93bef70c-b9c5-11e7-9851-6b965d7a6a5a.png">
+<p align="center"><img width="408" alt="screen shot 2017-10-23 at 10 09 58 pm" padding-left="400" src="https://user-images.githubusercontent.com/5751399/32029941-9a09a558-b9c5-11e7-9557-81ac88e8cea4.png"></p>
 
