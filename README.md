@@ -13,3 +13,6 @@ The objective of the game is to try and get a high score by eating as many delic
 
 **********************************************************************************************
 **********************************************************************************************
+
+<img width="405" alt="screen shot 2017-10-23 at 10 09 47 pm" src="https://user-images.githubusercontent.com/5751399/32029935-93bef70c-b9c5-11e7-9851-6b965d7a6a5a.png">
+
